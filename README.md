@@ -5,9 +5,7 @@
 
 Aplicativo destinado aos motoristas de ônibus traçarem a rota e informar a sua localização em tempo real para o aplicativo [Tracker](https://github.com/julionery/ionic-firebase-tracker-app).
 
-[APK DEMO](https://github.com/JulioNery/TrackerDriver/blob/master/SansaoGeo.apk)
-
-Códigos de acesso do aplicativo de demonstração:
+Códigos de acesso do aplicativo de demonstração: [APK DEMO](https://github.com/JulioNery/TrackerDriver/blob/master/SansaoGeo.apk)
 
 bus-1, jcan-1, kll-1, teste-1 
 
