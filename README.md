@@ -3,6 +3,8 @@
 </h3>
 <h2 align="center">Tracker Driver</h2>
 
+### Este aplicativo é gerenciado pelo [Painel Administrativo - Tracker](https://github.com/julionery/angular-firebase-tracker-admin).
+
 Aplicativo destinado aos motoristas de ônibus traçarem a rota e informar a sua localização em tempo real para o aplicativo [Tracker](https://github.com/julionery/ionic-firebase-tracker-app).
 
 ### :rocket: Tecnologias
